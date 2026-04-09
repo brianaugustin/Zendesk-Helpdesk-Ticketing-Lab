@@ -12,3 +12,10 @@ A hands-on lab simulating the ITIL lifecycle in Zendesk. Features ticket triage,
 ![9-List of recent tickets](https://github.com/user-attachments/assets/ea85106f-d129-47ba-82b1-632a4d1fc3d4)
 ![10-PC update ticket solved](https://github.com/user-attachments/assets/92f3f175-11ad-4667-92f2-06e293000df3)
 ![11 Final summary of the update ticket](https://github.com/user-attachments/assets/81938168-3593-44d2-a44f-a43c9a3ed860)
+
+
+## TICKET 3 - Install new keyboards for medical department
+
+![task3-1](https://github.com/user-attachments/assets/996bc5e3-8478-4743-b136-222b95b6c38c)
+![task3-2](https://github.com/user-attachments/assets/4d16021a-dd5b-41ba-abbd-38c991b769e5)
+![task3-3](https://github.com/user-attachments/assets/3814a5f7-c4c6-42f3-855d-8a1d00640842)
